@@ -1,1 +1,1 @@
-# Druggability-GNN
+# Predicting Druggability of Compounds using GNN
